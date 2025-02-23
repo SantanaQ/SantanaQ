@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm Florian from Emden, Germany.<br><br>- 🔭 I’m studiyng computer science @HS Emden/Leer.<br>- 📚 I'm currently learning Spring, PostgreSQL, HTMX.<br>- ⚡ In my free time i work out, player video games or do gardening.</p>
+<p align="left">I'm Florian from Emden, Germany.<br><br>- 🔭 I’m studiyng computer science @HS Emden/Leer.<br>- 📚 I'm currently learning Spring, PostgreSQL, HTMX.<br>- ⚡ In my free time i work out, play video games or do gardening.</p>
 
 ###
 
